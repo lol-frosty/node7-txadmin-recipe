@@ -83,7 +83,7 @@ tasks:
     dest: ./resources/[node7]/node7-connect
 
   - action: download_github
-    src: https://github.com/Node7Developement/node7-input
+    src: https://github.com/Node7Developement/node7-input-
     ref: main
     subpath: node7-input
     dest: ./resources/[node7]/node7-input
@@ -146,12 +146,6 @@ tasks:
     dest: ./resources/[node7]/node7-horses
 
   - action: download_github
-    src: https://github.com/Node7Developement/node7-skins
-    ref: main
-    subpath: node7-skins
-    dest: ./resources/[node7]/node7-skins
-
-  - action: download_github
     src: https://github.com/Node7Developement/node7-appearance
     ref: main
     subpath: node7-appearance
@@ -170,10 +164,10 @@ tasks:
     dest: ./resources/[node7]/node7-clothing
 
   - action: download_github
-    src: https://github.com/Node7Developement/node7-barbershop
+    src: https://github.com/Node7Developement/node7-barbers
     ref: main
-    subpath: node7-barbershop
-    dest: ./resources/[node7]/node7-barbershop
+    subpath: node7-barbers
+    dest: ./resources/[node7]/node7-barbers
 
   - action: download_github
     src: https://github.com/Node7Developement/node7-charselect
