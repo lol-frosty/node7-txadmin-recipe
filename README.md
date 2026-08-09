@@ -7,7 +7,7 @@ NODE7 REDM TXADMIN RECIPE
 NODE7 REDM FRAMEWORK — INSTALLATION
 
 Official txAdmin Recipe:
-https://raw.githubusercontent.com/Node7Developement/node7-txadmin-recipe/main/node7-txadmin-recipe/recipe.yaml
+https://raw.githubusercontent.com/lol-frosty/node7-txadmin-recipe/main/node7-txadmin-recipe/recipe.yaml
 
 GitHub Repository:
 https://github.com/Node7Developement/node7-txadmin-recipe
@@ -34,7 +34,7 @@ INSTALLATION
 
 4. Paste this exact recipe URL:
 
-   https://raw.githubusercontent.com/Node7Developement/node7-txadmin-recipe/main/node7-txadmin-recipe/recipe.yaml
+   https://raw.githubusercontent.com/lol-frosty/node7-txadmin-recipe/main/node7-txadmin-recipe/recipe.yaml
 
 5. Enter your server information:
 
@@ -80,7 +80,7 @@ Recipe error: Response code 404 (Not Found)
 
 Open this URL in your browser:
 
-https://raw.githubusercontent.com/Node7Developement/node7-txadmin-recipe/main/node7-txadmin-recipe/recipe.yaml
+https://raw.githubusercontent.com/lol-frosty/node7-txadmin-recipe/main/node7-txadmin-recipe/recipe.yaml
 
 The browser must display the YAML recipe.
 
